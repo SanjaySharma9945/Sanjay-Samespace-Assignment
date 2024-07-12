@@ -1,18 +1,20 @@
 import { gql } from '@apollo/client';
 
 // Query to fetch all songs
-export const GET_SONGS = gql`
-  query songs{
-    songs{
-    id
-    artist
-    url
-    accent
-    name
-    top_track
-    cover{
+const GET_SONGS = gql`
+  query GetSongs {
+    songs {
+      id
+      artist
+      url
+      accent
+      name
+      top_track
+      cover {
         id
+      }
     }
-    }
-}
+  }
 `;
+
+export { GET_SONGS };
