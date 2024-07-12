@@ -29,7 +29,7 @@ mode=design&t=zEkwOdYyaeNx0z7m-4)
 This project is hosted on GitHub. You can find the repository and the deployed version at the following links:
 
 - **GitHub Repository**: [🔗 SanjaySameSpaceAssignment](https://github.com/SanjaySharma9945/SanjaySameSpaceAssignment)
-- **Live Demo**: [🌐 Deployed on Vercel/Netlify](https://your-deployed-link.com) (replace with the actual link once deployed)
+- **Live Demo**: [🌐 Deployed on Netlify](https://sanjay-samespace-assignment.netlify.app)
 
 ## 🛠️ Available Scripts
 
@@ -66,4 +66,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 ## 📚 Learn More
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
