@@ -28,7 +28,7 @@ mode=design&t=zEkwOdYyaeNx0z7m-4)
 
 This project is hosted on GitHub. You can find the repository and the deployed version at the following links:
 
-- **GitHub Repository**: [🔗 SanjaySameSpaceAssignment](https://github.com/SanjaySharma9945/SanjaySameSpaceAssignment)
+- **GitHub Repository**: [🔗 Sanjay-Samespace-Assignment](https://github.com/SanjaySharma9945/SanjaySameSpaceAssignment)
 - **Live Demo**: [🌐 Deployed on Netlify](https://sanjay-samespace-assignment.netlify.app)
 
 ## 🛠️ Available Scripts
